@@ -9,7 +9,6 @@ Oura Ring의 수면 분석 알고리즘 핵심 이해와 이를 활용한 개인
 부제목:
 수면 데이터, 단순 기록을 넘어 과학적 인사이트로
 
-
-
-
+데이터 기반 수면 관리 응용 전략:
+https://www.kaggle.com/code/seokheelee20/oura-da
 
